@@ -5,7 +5,7 @@ metadata:
 spec:
   containers:
   - name: hello
-    image: uhub.service.ucloud.cn/henry/hello:v1.0  
+    image: uhub.service.ucloud.cn/dujingyu_jenkins/hello:v1.0  
     command:
       - /hello 
   restartPolicy: Never 
