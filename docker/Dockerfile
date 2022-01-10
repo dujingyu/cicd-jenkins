@@ -1,5 +1,6 @@
-#FROM busybox:latest 
-FROM uhub.service.ucloud.cn/dujingyu_jenkins/hello:v1.0
+FROM busybox:latest 
+
+#FROM uhub.service.ucloud.cn/dujingyu_jenkins/hello:v1.0
     
 MAINTAINER <edward.yang@ucloud.cn>
     
