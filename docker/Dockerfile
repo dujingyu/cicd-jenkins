@@ -5,4 +5,4 @@ MAINTAINER <edward.yang@ucloud.cn>
 COPY  hello /  
 RUN echo '易有料测试1' > /tmp/test.txt    
 #CMD ["/hello"]
-ENTRYPOINT [ "top", "-b" ]
+CMD ["/bin/bash"]
